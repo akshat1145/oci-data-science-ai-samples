@@ -26,6 +26,7 @@ Check out the following resources for more information about the OCI Data Scienc
 * [OCI Data Labeling Service guide](https://docs.oracle.com/en-us/iaas/data-labeling/data-labeling/using/home.htm)
 * [OCI DLS DP API](https://docs.oracle.com/en-us/iaas/api/#/en/datalabeling-dp/20211001/)
 * [OCI DLS CP API](https://docs.oracle.com/en-us/iaas/api/#/en/datalabeling/20211001/)
+* [OCI AI Anomaly Detection Service](https://www.oracle.com/artificial-intelligence/anomaly-detection/)
 
 # Need Help?
 
